@@ -1,0 +1,50 @@
+[
+   {
+      "descricao":"Mouse",
+      "dataVencimento":"2020-08-20",
+      "valor":45.0,
+      "pago":true
+   },
+   {
+      "descricao":"Teclado",
+      "dataVencimento":"2021-12-18",
+      "valor":145.0,
+      "pago":false
+   },
+   {
+      "descricao":"Material Escritorio",
+      "dataVencimento":"2020-07-12",
+      "valor":200.0,
+      "pago":false
+   },
+   {
+      "descricao":"Cursos",
+      "dataVencimento":"2020-08-19",
+      "valor":2300.0,
+      "pago":true
+   },
+   {
+      "descricao":"Cadeira",
+      "dataVencimento":"2020-09-05",
+      "valor":750.0,
+      "pago":false
+   },
+   {
+      "descricao":"Energia",
+      "dataVencimento":"2020-10-10",
+      "valor":280.0,
+      "pago":false
+   },
+   {
+      "descricao":"Fatura celular",
+      "dataVencimento":"2021-12-18",
+      "valor":190.0,
+      "pago":false
+   },
+   {
+      "descricao":"Fatura netflix",
+      "dataVencimento":"2020-11-05",
+      "valor":60.0,
+      "pago":false
+   }
+]
